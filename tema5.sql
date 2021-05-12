@@ -1,6 +1,6 @@
 --Trabajo realizado por:
---
 --Matías Leonardo González Espínola CI 4513640
+--Matias Antonio Sosa Ramos CI 5174741
 
 --para ejecutar el script
 --@C:\SQL\tema5.sql
